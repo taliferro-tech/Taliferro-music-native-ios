@@ -36,7 +36,7 @@ enum StationInfo {
         StationFact(label: "Based in", value: "Seattle, Washington, USA"),
         StationFact(label: "Operated by", value: "Taliferro Music"),
         StationFact(label: "Email", value: "info@taliferro.com", url: URL(string: "mailto:info@taliferro.com")),
-        StationFact(label: "Phone", value: "401.646.2662", url: URL(string: "tel:+14016462662"))
+        StationFact(label: "Phone", value: "425.790.9986", url: URL(string: "tel:+14257909986"))
     ]
 
     static let socialLinks: [SocialLink] = [
